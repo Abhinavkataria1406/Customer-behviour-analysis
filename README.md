@@ -45,51 +45,7 @@ This project analyzes customer purchasing behavior using SQL and Power BI to unc
 # 🛍️ Customer Behavior Analysis & Dashboard
 ![Customer Behaviour Dashboard](/dashboard.png)
 
-## 📌 Overview
-This project analyzes customer purchasing behavior using SQL and Power BI to uncover patterns in spending, product preferences, and customer segmentation. The objective is to derive actionable insights that support data-driven business decisions.
 
----
-
-## 🎯 Objectives
-- Analyze customer spending patterns across demographics  
-- Identify high-value and repeat customers  
-- Evaluate product and category performance  
-- Assess the impact of discounts, subscriptions, and shipping methods  
-- Segment customers based on purchase behavior  
-
----
-
-## 🗃️ Dataset
-- Total Records: 3,900 customers  
-- Total Features: 18  
-
-### 👤 Customer Information
-- Customer ID, Age, Gender, Location  
-
-### 🛒 Purchase Details
-- Item Purchased, Category, Purchase Amount (USD)  
-- Frequency of Purchases, Previous Purchases  
-
-### 🎯 Behavioral Features
-- Subscription Status, Discount Applied, Promo Code Used  
-- Payment Method, Shipping Type  
-
-### ⭐ Feedback
-- Review Rating (handled missing values)  
-
----
-
-## 🛠️ Tools & Technologies
-- SQL (MySQL)  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Power BI (Dashboard Visualization)  
-
----
-
-## 📊 Dashboard
-![Customer Behaviour Dashboard](images/dashboard.png)
-
----
 
 ## 🔍 Key Analysis Performed
 
