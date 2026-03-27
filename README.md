@@ -43,6 +43,7 @@ This project analyzes customer purchasing behavior using SQL and Power BI to unc
 
 ## 📊 Dashboard
 # 🛍️ Customer Behavior Analysis & Dashboard
+![Customer Behaviour Dashboard](/dashboard.png)
 
 ## 📌 Overview
 This project analyzes customer purchasing behavior using SQL and Power BI to uncover patterns in spending, product preferences, and customer segmentation. The objective is to derive actionable insights that support data-driven business decisions.
